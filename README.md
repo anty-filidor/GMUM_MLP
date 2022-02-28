@@ -1,8 +1,4 @@
-#Głębokie modele uczenia maszynowego
-
-__DAN, W8, PWr__
-
-__MLP - 2018__
+# __MLP - 2018__
 
 This program is simple MLP neural network trained on CIFAR-10 dataset [link](https://www.cs.toronto.edu/~kriz/cifar.html)
  
